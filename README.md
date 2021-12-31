@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrMindBlow
-- 👀 I’m interested in C+, CSS and Lua
+- 👀 I’m interested in Python and Lua
 - 🌱 I’m currently learning all of my interests :P
 - 💞️ I’m looking to collaborate on any project where I can pick up new skills or learn something new!
 - 📫 How to reach me via Discord! /Alex\#0001
