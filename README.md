@@ -18,4 +18,4 @@ Python, PowerShell, Bash, JavaScript/TypeScript, Linux, Windows, Git, GitHub, Gi
 
 ## Elsewhere
 
-- https://airpar.net
+- https://mrmindblow.airpar.net/
